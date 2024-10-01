@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://abvuext.github.io/sitemap/sitemap.txt
